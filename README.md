@@ -31,4 +31,4 @@ node src/app-pdf417.js
 [3]: https://www.barcodebakery.com/en/purchase
 [4]: https://www.barcodebakery.com/en/docs/nodejs/barcode/pdf417/download
 [5]: https://www.barcodebakery.com/en/docs/nodejs/guide
-[6]: https://github.com/barcode-bakery/example-nodejs-pdf417/blob/master/src/app-azted.js
+[6]: https://github.com/barcode-bakery/example-nodejs-pdf417/blob/master/src/app-pdf417.js
